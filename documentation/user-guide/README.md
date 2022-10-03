@@ -172,7 +172,6 @@ User can also subscribe to multiple data offers at a time by ticking or checking
 Please note that, user can only subscribe to multiple data offers if the offers have exact similar usage policies configured.
 After clicking on Subscribe button and agreeing to the terms and conditions, the contract agreements establishment process will start for all of the selected data offers for the subscription.
 
-
 ## Contract History
 
 <img src="images/contract-agreements-history.png" height="60%" width="90%" />
